@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
 public class DaysOfMonth {
+    // [Thực hành] Tính số ngày trong tháng (v.2023)
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 

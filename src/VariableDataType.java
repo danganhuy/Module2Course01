@@ -1,4 +1,4 @@
-public class Exercise2 {
+public class VariableDataType {
     // [Thực hành] Khai báo và sử dụng biến (v.2023)
     public static void main(String[] args) {
         int i = 5;

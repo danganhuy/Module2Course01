@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
 public class USDToVND {
+    // [Bài tập] Ứng dụng chuyển đổi tiền tệ
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
